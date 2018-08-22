@@ -1,4 +1,4 @@
 <?php
 
-echo "Meu primeiro programa <strong>PHP</strong>.";
+echo "Olá PHP <strong>PHP</strong>.";
 ?>
